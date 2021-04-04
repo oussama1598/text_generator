@@ -1,5 +1,6 @@
 import re
 import string
+from time import sleep
 
 import numpy as np
 
